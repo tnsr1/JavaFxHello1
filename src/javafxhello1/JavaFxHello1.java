@@ -23,10 +23,10 @@ public class JavaFxHello1 extends Application {
     @Override
     public void start(Stage primaryStage) {
         // Создаем кнопку
-        Button button = new Button("������� ����!");
+        Button button = new Button("Нажмите меня!");
         button.setOnAction(event -> {
             // Действие, которое происходит при нажатии кнопки
-            System.out.println("������ ������!");
+            System.out.println("Кнопка нажата!");
         });
 
         // Создаем контейнер (HBox)
@@ -39,7 +39,7 @@ public class JavaFxHello1 extends Application {
         Scene scene = new Scene(root, 300, 100);
 
         // Устанавливаем сцену для окна
-        primaryStage.setTitle("��� ������ JavaFX-����������");
+        primaryStage.setTitle("Мое первое JavaFX-приложение");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
