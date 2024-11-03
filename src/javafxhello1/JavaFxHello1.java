@@ -4,8 +4,8 @@
  */
 
 /**
- *
- * @author alex_20240903
+ * 
+ * @author Gemini
  */
 
 package javafxhello1;
