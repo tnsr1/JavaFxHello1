@@ -17,3 +17,12 @@ VM Options:
 <br><br>
 --module-path "c:\javafx\javafx-sdk-23.0.1\lib" --add-modules javafx.base,javafx.controls,javafx.fxml,javafx.graphics
 <br><br>
+Run ...
+<br><br>
+![Run](https://github.com/tnsr1/JavaFxHello1/blob/main/images/Launch.png)
+<br><br>
+That's all.
+<br><br>
+;o)
+<br><br>
+WBR, alex;
