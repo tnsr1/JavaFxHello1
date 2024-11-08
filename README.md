@@ -1,5 +1,5 @@
 # JavaFxHello1
-Configuring the JavaFX graphics library in Netbeans.
+Configuring the JavaFX graphics library in Netbeans 23.
 
 
 ![Create New Project](https://github.com/tnsr1/JavaFxHello1/blob/main/images/NewProject.png)
